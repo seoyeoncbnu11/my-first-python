@@ -15,7 +15,7 @@ if i == 1:
 else:
     print(i+1)
 
-num = int(input("입력하세요: "))
+num = int(input())
 if num % 2 == 0:
     print('짝수입니다.')
 else:
