@@ -15,4 +15,3 @@ elif score == 0:
     print('F')
 else:
     print('B+')
-    

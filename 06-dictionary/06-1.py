@@ -1,4 +1,4 @@
-my_list = [1,2,3,4,5]
+my_list = [1, 2, 3, 4, 5]
 my_list.pop(0)
 
 print(my_list)
@@ -6,18 +6,18 @@ print(my_list)
 my_list.pop()
 print(my_list)
 
-my_list = [1,2,3,4,5]
+my_list = [1, 2, 3, 4, 5]
 print(my_list.remove(1))
 
-my_seq = [2,2,2,4,4]
+my_seq = [2, 2, 2, 4, 4]
 print(my_seq.count(2))
 
-my_list = [1,2,2,3,3,3]
+my_list = [1, 2, 2, 3, 3, 3]
 var = my_list.count(3)
 print(var)
 
-my_list.pop(1) #[1,2,3,3,3]
-my_list.pop(2) 
+my_list.pop(1)  # [1,2,3,3,3]
+my_list.pop(2)
 my_list.pop(2)
 print(my_list)
 
