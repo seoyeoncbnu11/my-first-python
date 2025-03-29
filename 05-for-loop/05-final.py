@@ -9,6 +9,5 @@ while True:
     cheeze.append("치즈")
     print("치즈 추가")
     if len(cheeze) == 50:
-        break
         print("아아~ 배불러!")
-        # break
+        break
