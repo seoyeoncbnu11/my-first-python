@@ -12,7 +12,7 @@ print(my_tuple * 2)
 # my_tuple.pop()
 # my_tuple[0] = 4
 
-my_tuple = (1,2,3,4,5)
+my_tuple = (1, 2, 3, 4, 5)
 var1 = my_tuple[2]
 var2 = my_tuple[0:3]
 var3 = len(my_tuple)

@@ -13,13 +13,13 @@ import random
 # elif x % 3 == 0:
 #     print('3의 배수입니다.')
 
-ans = random.randint(1,50)
+ans = random.randint(1, 50)
 
 while True:
     num = int(input())
-    if num > ans :
+    if num > ans:
         print('그 수보다 작아요.')
-    elif num < ans :
+    elif num < ans:
         print('그 수보다 커요.')
     else:
         print('정답!')
